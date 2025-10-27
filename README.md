@@ -2,6 +2,6 @@
 
 # TEAM
 
-Alan Kulesza-Milewski Kulesza-Milewski 1,6
-Zofia Opolska Opolska-Zofia 2,3
-Łukasz Pituła Pituluk 4,5
+1. Alan Kulesza-Milewski Kulesza-Milewski 1,6
+2. Zofia Opolska Zofia-Opolska 2,3
+3. Łukasz Pituła pituluk 4,5

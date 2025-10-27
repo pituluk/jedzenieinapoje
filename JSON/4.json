@@ -1,0 +1,13 @@
+{
+    "nazwa": "spaghetti",
+    "kalorie": 500,
+    "jadalne": true,
+    "cena": 12.50,
+    "skladniki": ["makaron","sos"],
+    "opcje": {
+        "vegan": true,
+        "zmiesem": true
+    },
+    "menu": "obiady",
+    "dostepneporcjedladzieci": true
+}

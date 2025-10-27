@@ -1,0 +1,39 @@
+<? XML version = "1.0" encode = "UTF-8"?>
+<FoodAndDrinkList>
+    <Item>
+        <Name>Fanta</Name>
+        <YearOfInvention>1940</YearOfInvention>
+        <Creator>Max Keith</Creator>
+        <Healthy>No</Healthy>
+    </Item>
+    <Item>
+        <Name>Pepsi</Name>
+        <YearOfInvention>1898</YearOfInvention>
+        <Creator>Caleb Bradham</Creator>
+        <Healthy>No</Healthy>
+    </Item>
+    <Item>
+        <Name>CocaCola</Name>
+        <YearOfInvention>1886</YearOfInvention>
+        <Creator>John Stith Pemberton</Creator>
+        <Healthy>No</Healthy>
+    </Item>
+    <Item>
+        <Name>Redbull</Name>
+        <YearOfInvention>1984</YearOfInvention>
+        <Creator>Dietrich Mateschitz</Creator>
+        <Healthy>No</Healthy>
+    </Item>
+    <Item>
+        <Name>Sprite</Name>
+        <YearOfInvention>1959</YearOfInvention>
+        <Creator>The Coca-Cola Company</Creator>
+        <Healthy>No</Healthy>
+    </Item>
+    <Item>
+        <Name>Lipton</Name>
+        <YearOfInvention>1871</YearOfInvention>
+        <Creator>Thomas Lipton</Creator>
+        <Healthy>No</Healthy>
+    </Item>
+</FoodAndDrinkList>

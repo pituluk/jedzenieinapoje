@@ -1,0 +1,44 @@
+[
+    {
+        "nazwa": "Sprite",
+        "cena": 5,
+        "dostepny": true,
+        "sztuki": 50,
+        "podatekcukrowy": true
+    },
+    {
+        "nazwa": "CocaCola",
+        "cena": 6,
+        "dostepny": true,
+        "sztuki": 39,
+        "podatekcukrowy": true
+    },
+    {
+        "nazwa": "Pepsi",
+        "cena": 6,
+        "dostepny": true,
+        "sztuki": 21,
+        "podatekcukrowy": true
+    },
+    {
+        "nazwa": "Fanta",
+        "cena": 5,
+        "dostepny": true,
+        "sztuki": 11,
+        "podatekcukrowy": true
+    },
+    {
+        "nazwa": "DrPepper",
+        "cena": 4,
+        "dostepny": true,
+        "sztuki": 10,
+        "podatekcukrowy": true
+    },
+    {
+        "nazwa": "WodaZywiecZdroj",
+        "cena": 2,
+        "dostepny": true,
+        "sztuki": 50,
+        "podatekcukrowy": false
+    }
+]

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FoodAndDrinkList>
+    <Item>
+        <Name AmountOfLetters="5" Romanized="No">Fanta</Name>
+        <YearOfInvention PlaceOfOrigin="Germany" IsItStillProduced="yes">1940</YearOfInvention>
+        <Creator gender="Male" YearsLived="63">Max Keith</Creator>
+        <Healthy amountOfSuggarInPortion="10,3g" PortionSize="100ml">No</Healthy>
+    </Item>
+    <Item>
+        <Name AmountOfLetters="5" Romanized="No">Pepsi</Name>
+        <YearOfInvention PlaceOfOrigin="North Carolina" IsItStillProduced="yes">1898</YearOfInvention>
+        <Creator gender="Male" YearsLived="68">Caleb Bradham</Creator>
+        <Healthy amountOfSuggarInPortion="10,9g" PortionSize="100ml">No</Healthy>
+    </Item>
+    <Item>
+        <Name AmountOfLetters="8" Romanized="No">CocaCola</Name>
+        <YearOfInvention PlaceOfOrigin="Atlanta, Georgia" IsItStillProduced="yes">1886</YearOfInvention>
+        <Creator gender="Male" YearsLived="57">John Stith Pemberton</Creator>
+        <Healthy amountOfSuggarInPortion="10g" PortionSize="100ml">No</Healthy>
+    </Item>
+    <Item>
+        <Name AmountOfLetters="7" Romanized="No">Redbull</Name>
+        <YearOfInvention PlaceOfOrigin="Austria" IsItStillProduced="yes">1984</YearOfInvention>
+        <Creator gender="Male" YearsLived="78">Dietrich Mateschitz</Creator>
+        <Healthy amountOfSuggarInPortion="11,2g" PortionSize="100ml">No</Healthy>
+    </Item>
+    <Item>
+        <Name AmountOfLetters="6" Romanized="No">Sprite</Name>
+        <YearOfInvention PlaceOfOrigin="Atlanta, Georgia" IsItStillProduced="yes">1959</YearOfInvention>
+        <Creator gender="Male" YearsLived="57">John Stith Pemberton</Creator>
+        <Healthy amountOfSuggarInPortion="9g" PortionSize="100ml">No</Healthy>
+    </Item>
+    <Item>
+        <Name AmountOfLetters="6" Romanized="No">Lipton</Name>
+        <YearOfInvention PlaceOfOrigin="Shop in Glasgow" IsItStillProduced="yes">1871</YearOfInvention>
+        <Creator gender="Male" YearsLived="83">Thomas Lipton</Creator>
+        <Healthy amountOfSuggarInPortion="12g" PortionSize="100ml">No</Healthy>
+    </Item>
+</FoodAndDrinkList>
